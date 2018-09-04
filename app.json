@@ -1,5 +1,5 @@
 {
-  "id": "8f166d76-6f04-405e-a553-44725b932a05",
+  "id": "76682218-95bf-4261-b0bd-1bcdb5838e5c",
   "name": "SD Seminar",
   "publisher": "Default publisher",
   "brief": "",
@@ -16,8 +16,11 @@
   "screenshots": [],
   "platform": "11.0.0.0",
   "application": "11.0.0.0",
+  "features": "TranslationFile",
+  "showMyCode": true,
+  "target": "Internal",
   "idRange": {
-    "from": 123546700,
-    "to": 123546799
+    "from": 123456700,
+    "to": 123456799
   }
 }
